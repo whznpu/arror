@@ -1,0 +1,3 @@
+/home/whz/桌面/finalTask/armor/CMakeFiles/rebuild_cache.dir
+/home/whz/桌面/finalTask/armor/CMakeFiles/armor.dir
+/home/whz/桌面/finalTask/armor/CMakeFiles/edit_cache.dir
